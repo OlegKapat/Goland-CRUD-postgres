@@ -1,0 +1,6 @@
+storage:
+  host: localhost
+  port: 5432
+  database: example
+  username: postgres
+  password: 1q2q3q4q
